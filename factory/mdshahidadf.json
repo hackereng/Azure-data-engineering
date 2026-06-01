@@ -1,0 +1,15 @@
+{
+	"name": "mdshahidadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "836eaeb9-7312-4dc6-8f5f-9a03539ad93c",
+		"tenantId": "83413b94-155f-4238-973d-f2c4e031fe87"
+	}
+}
